@@ -1,4 +1,4 @@
-# Welcome 👋! ![Visits Badge](https://badges.pufler.dev/visits/NeedVoid/NeedVoid)
+# Hey there 👋! ![Visits Badge](https://badges.pufler.dev/visits/NeedVoid/NeedVoid)
 
 ### About Me
  - I'm a Systems Administrator that works for Jamo Tech and plays around with programming languages.
@@ -25,3 +25,6 @@
 ![Intelij](https://img.shields.io/badge/-Intelij-0C1324?style=flat-square&logo=jetbrains&logoColor=ffffff)
 ![Maven](https://img.shields.io/badge/-Maven-0C1324?style=flat-square&logo=apache-maven&logoColor=ffffff)
 ![Gradle](https://img.shields.io/badge/-Gradle-0C1324?style=flat-square&logo=gradle&logoColor=ffffff)
+
+
+<p align="left"> <a href="https://twitter.com/needvoidmc" target="blank"><img src="https://img.shields.io/twitter/follow/needvoidmc?logo=twitter&style=for-the-badge" alt="needvoidmc" /></a> </p>
