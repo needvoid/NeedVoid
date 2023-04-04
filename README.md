@@ -1,7 +1,7 @@
 # Hey there 👋! ![Visits Badge](https://badges.pufler.dev/visits/NeedVoid/NeedVoid)
 
 ### About Me
- - I'm a Systems Administrator that works for Jamo Tech and plays around with programming languages.
+ - I'm a Systems Administrator that used to work for Jamo Tech and plays around with programming languages.
  - Any questions? Contact me via discord: NeedVoid#4106
 
 
